@@ -7,4 +7,4 @@ permalink: /hosting_making/workshops_for_kids
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)
 ---
 
-Describe Workshops for Kids here...
+# Family Workshops for All Ages
